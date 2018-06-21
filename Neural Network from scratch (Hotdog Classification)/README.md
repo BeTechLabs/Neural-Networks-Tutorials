@@ -26,4 +26,4 @@ This process is the process where we create a deep learning model that can solve
 
 
 ##Try It Yourself
-After creating a model, now it's time to use it to classify an image of your own. You can do that by running the `running.ipynb` file.
+After creating a model, now it's time to use it to classify an image of your own. You can do that by running the `running.ipynb` file. This file uses the file `model.pickle` to load the parameters fo the model and use it on predicting the input image.
