@@ -1,6 +1,6 @@
 # Neural Network from scratch
 
-##Description
+## Description
 In this repo we will discuss how to create a Deep Neural Network from scratch to do an image classification task, specifically classifying hotdog images. The given data will be around 1000 images. Some of these images will be hotdog images, and the other are some other random images. 
 
 In the end of this project, you will be able to understand:
@@ -25,5 +25,5 @@ The first thing in any data science project is to engineer the data that you are
 This process is the process where we create a deep learning model that can solve our problem. To create a deep neural network model and train it, you can run the `train.ipynb` file.
 
 
-##Try It Yourself
+## Try It Yourself
 After creating a model, now it's time to use it to classify an image of your own. You can do that by running the `running.ipynb` file. This file uses the file `model.pickle` to load the parameters fo the model and use it on predicting the input image.
