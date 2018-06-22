@@ -19,4 +19,4 @@ In this repo, we have implemented 3 different neural nets in order to showcase h
   - [Dog Breed Image Classification (Using ResNet50).ipynb](https://github.com/BeTechLabs/Neural-Networks-Tutorials/tree/master/Dog%20Breed%20Image%20Classification%20(Using%20ResNet50).ipynb): Using pre-trained model.
   
 ## Neural Nets FAQ
-We have included a very popular and useful neural net FAQ done by [faqs.orh](http://www.faqs.org/faqs/ai-faq/neural-nets/) that well document important questions about neural nets, you can find the FAQs in this [folder]()
+We have included a very popular and useful neural net FAQ done by [faqs.orh](http://www.faqs.org/faqs/ai-faq/neural-nets/) that well document important questions about neural nets, you can find the FAQs in this [folder](https://github.com/BeTechLabs/Neural-Networks-Tutorials/tree/master/FAQs)
