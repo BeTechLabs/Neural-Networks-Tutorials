@@ -1,6 +1,6 @@
 # Project Template
 
-##Description
+## Description
 
 ## Purpose
 
@@ -10,4 +10,4 @@
 
 ## Training
 
-##Try It Yourself
+## Try It Yourself
